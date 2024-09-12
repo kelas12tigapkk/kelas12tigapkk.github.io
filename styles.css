@@ -216,7 +216,7 @@ header {
 }
 
 .banner__container {
-  width: max-content;
+  width: auto;
   display: flex;
   align-items: center;
   gap: 8rem;
@@ -225,7 +225,7 @@ header {
 }
 
 .banner__container img {
-  height: 10px;
+  height: 100px;
 }
 
 @keyframes scroll {
