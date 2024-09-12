@@ -161,9 +161,9 @@ header {
 
 .header__content h1 {
   margin-bottom: 1rem;
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 900;
-  line-height: 5.5rem;
+  line-height: 5rem;
   color: var(--text-dark);
   text-align: center;
 }
@@ -177,7 +177,7 @@ header {
   position: absolute;
   content: "";
   top: 0;
-  left: -1rem;
+  left: -2rem;
   height: 100%;
   width: calc(100% + 4rem);
   transform: rotate(-2deg);
