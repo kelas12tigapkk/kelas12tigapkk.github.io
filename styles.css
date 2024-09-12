@@ -218,7 +218,6 @@ header {
 .banner__container {
   width: max-content;
   display: flex;
-  align-items: center;
   gap: 8rem;
 
   animation: scroll 10s linear infinite;
