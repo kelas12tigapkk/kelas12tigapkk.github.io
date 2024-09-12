@@ -302,7 +302,6 @@ header {
 .sale__container {
   padding-block: 1rem 0;
   display: grid;
-  gap: 2rem;
   overflow: hidden;
 }
 
@@ -336,7 +335,6 @@ header {
   height: calc(100% - 10px);
   width: calc(100% + 4rem);
   background-color: var(--white);
-  transform: rotate(-2deg);
   z-index: -1;
 }
 
