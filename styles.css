@@ -225,7 +225,7 @@ header {
 }
 
 .banner__container img {
-  height: auto;
+  height: 8rem;
 }
 
 @keyframes scroll {
